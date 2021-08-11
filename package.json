@@ -1,8 +1,8 @@
 {
-	"name": "one-monokai",
+	"name": "avidian-one-monokai",
 	"theme": "syntax",
 	"version": "0.3.1",
-	"description": "Atom One monokai theme",
+	"description": "Atom One Monokai Theme",
 	"keywords": [
 		"syntax",
 		"theme"
